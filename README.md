@@ -1,4 +1,4 @@
 # Algebro
 My First Git Repository.
 <br>
-Author - Aman Kumar
+Author - Algebro (Aman Kumar)
